@@ -1,0 +1,8 @@
+ My associate id : 844582
+
+ Other team members : 844565,844566,844582,844628
+   
+ Team lead : 844565
+  
+ My role in team : To develop  place appointment page using  html and bootstrap.
+   
